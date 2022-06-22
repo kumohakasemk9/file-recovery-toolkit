@@ -1,3 +1,7 @@
+# Copyright (C) 2022 kumohakase (license: https://creativecommons.org/licenses/by/2.5/)
+# EXT4 free block scanner program
+# Please consider supporting me using kofi.com https://ko-fi.com/kumohakase
+
 import sys, os, struct, math, time
 
 def b2i(d):
