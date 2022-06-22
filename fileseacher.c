@@ -1,3 +1,9 @@
+/*
+Copyright (C) 2022 kumohakase (license: https://creativecommons.org/licenses/by/2.5/)
+Pattern searcher
+Please consider supporting me using kofi.com https://ko-fi.com/kumohakase
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
