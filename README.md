@@ -1,6 +1,6 @@
 file-recovery-toolkit
 ====
-Ext4 dumpstar diver program for recovering deleted files.  
+Ext4 dumpstar diver program for recovering deleted files. (Searches in marked-for-unused or marked-for-deleted area)  
 
 filesearcher.c - Added Sep 20 2021   
 Finds data pattern in specified file and tells the location in the file, if found.   
